@@ -40,6 +40,7 @@ Jack-up the motorcycle engine enough to releve the pressure on the axle bolt, it
 ![Engine Bolt Removal](pic5.jpg)
 ![Engine Bolt Removal](pic6.jpg)
 ![Engine Bolt Removal](pic7.jpg)
+![Engine Bolt Removal](pic8.jpg)
 
 Make sure the left side (intake side) has more threads showing than the right as clearance is an issue, no less than 3 threads showing on either side, if you need help preventing the bolt from moving, you can use vise-grips and something (I used a rubber glove) to protect the threads.  The right-side will get the long spacer.
 
@@ -47,7 +48,7 @@ Make sure the left side (intake side) has more threads showing than the right as
 ## Tightening things up
 Now that everything is mounted, go back and tighten everything up, do not overtighten! 12-14 ft-lb of torque should be plenty, check them the first few rides to ensure they don't back themselves out with vibration, althought they are nylon locnuts you could use some loctite.
 
-![Finished Product](pic8.jpg)
+![Finished Product](pic9.jpg)
 
 
 ## Followup
